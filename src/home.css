@@ -1,0 +1,8 @@
+th,td,table{
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+    margin-left: 140px;
+    align-items: center;
+    align-content: center;
+}
