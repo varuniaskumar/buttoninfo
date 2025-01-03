@@ -21,7 +21,7 @@ export default function Home() {
 
     function navigateNextPage(id){
         console.log(id)
-        navigate('/product')
+        navigate('/product/'+id);
         
     }
     
